@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "佳夜诗集欣赏"
+description: "佳夜作品集，Earn提供技术支持"
 
 avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: ustbearn@163.com
   facebook:
-  github: pianfan
+  github:
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 佳夜（转载请注明作者）
 
-url: https://pianfan.github.io
+url: https://earn-jiaye.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
